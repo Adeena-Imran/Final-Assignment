@@ -1,6 +1,5 @@
-"use strict";
 // storing the famous quote and its author
-let quote = "'Pain is inevitable. Suffering is optional";
-let author = " Haruki Murakami";
+var quote = "'Pain is inevitable. Suffering is optional";
+var author = " Haruki Murakami";
 // printing the message
-console.log(`"${quote}" - ${author}`);
+console.log("\"".concat(quote, "\" - ").concat(author));

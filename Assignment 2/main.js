@@ -1,6 +1,5 @@
-"use strict";
 // storing a person name in variable
-let personName = "Adeena Imran";
+var personName = "Adeena Imran";
 //printing a person name in Lowercase
 console.log("Lowercase:", "adeena imran");
 // printing persons name in Uppercase
